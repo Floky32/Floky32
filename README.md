@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m Yassine, a Software Engineering student at EPI Digital School with a strong passion for Web Development.<br>💡 I’m currently learning and building projects with PHP (Laravel), JavaScript (Angular), and other modern web technologies.<br>🛠️ I enjoy solving real-world problems, experimenting with new frameworks, and improving my coding skills through hands-on projects.<br>🚀🚀 My goal is to grow into a skilled Full-Stack Developer, keep sharpening my expertise, and actively contribute to open-source projects..<br><br>
+👋 Hi there! I’m Yassine, a Software Engineering student at EPI Digital School with a strong passion for Web Development.<br>💡 I’m currently learning and building projects with PHP (Laravel), JavaScript (Angular), and other modern web technologies.<br>🛠️ I enjoy solving real-world problems, experimenting with new frameworks, and improving my coding skills through hands-on projects.<br>🚀 My goal is to grow into a skilled Full-Stack Developer, keep sharpening my expertise, and actively contribute to open-source projects..<br><br>
 
 
 ## 🌐 Socials:
